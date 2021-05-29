@@ -44,4 +44,4 @@ async def log(body: Log):
         content=response_value)        
 
 if __name__ == '__main__':
-    uvicorn.run("main:app", host="127.0.0.1", port=8787, debug=True)
+    uvicorn.run("main:app", host="127.0.0.1", port=8787)
