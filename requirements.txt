@@ -1,0 +1,6 @@
+fastapi==0.61.1
+uvicorn==0.12.1
+pydantic==1.6.1
+google-cloud-bigquery==2.16.0
+google-cloud-core==1.6.0
+google-cloud-pubsub==2.4.1
